@@ -3,7 +3,7 @@
 An AI-powered Travel Planning Assistant that helps users plan, organize, and manage their trips with ease. Powered by IBM Cloud Lite services and Granite models, this smart agent understands user preferences, provides real-time suggestions, and delivers a seamless travel experience.
 
 ---
-
+AGENT URL -- https://au-syd.dai.cloud.ibm.com/wx/agents/3543cf41-c264-4c00-8b79-9bd2b8c3f776?project_id=be210111-55cb-4203-9b13-09981a652080&context=wx
 ## 🚀 Features
 
 - **🧠 Natural Language Interface**  
